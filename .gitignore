@@ -1,0 +1,6 @@
+*.env
+*.ipynb
+*.pyc
+*.txt
+*.csv
+*.md
